@@ -25,4 +25,3 @@ function bowdlerize(input, dictionary) {
   });
   return censored;
 }
-i::
