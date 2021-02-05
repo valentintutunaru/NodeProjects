@@ -25,9 +25,3 @@ function bowdlerize(input, dictionary) {
   });
   return censored;
 }
-
-const app = {
-    bowdlerize
-};
-
-module.exports = app;
