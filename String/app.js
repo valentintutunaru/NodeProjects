@@ -25,3 +25,5 @@ function bowdlerize(input, dictionary) {
   });
   return censored;
 }
+
+let test = {'jelyFish':'aaaaaaa'};
